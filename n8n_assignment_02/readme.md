@@ -1,4 +1,4 @@
-![My Workflow](./n8n_workflow.png)
+![Image is missing](./n8n_workflow.png)
 
 # 🎉 Completed n8n Level One Course 🎉
 
