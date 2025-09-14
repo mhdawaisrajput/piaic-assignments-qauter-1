@@ -1,3 +1,5 @@
+![My Workflow](./n8n_workflow.png)
+
 # 🎉 Completed n8n Level One Course 🎉
 
 **Author:** Muhammad Awais
